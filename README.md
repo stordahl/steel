@@ -15,7 +15,7 @@ Steel Plugins are plugins designed to bring the Snipcart API into Steel Studio t
 | sanity-plugin-snipcart-bestsellers | A dashboard widget that displays best selling products | [npm](https://www.npmjs.com/package/sanity-plugin-snipcart-bestsellers) |
 
 ### Steel Templates 🧩
-Steel Templates are base frontends either used to build new custom sites, or Steel Themes 🖌️. There should only be one Steel Template for any given front-end framework; if one already exists, please contribute to it rather than creating a new one from scratch! Current Steel Templates include...
+Steel Templates are base frontends either used to build new custom sites, or Steel Themes 🖌️. These template should meet the base requirements of provided a simple way to connect to both Sanity & Snipcart. There should only be one Steel Template for any given front-end framework; if one already exists, please contribute to it rather than creating a new one from scratch! Current Steel Templates include...
 - [steel-template-gatsby](https://github.com/stordahl/steel-template-gatsby)
 - more to come very soon!
 
