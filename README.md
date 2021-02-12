@@ -3,7 +3,7 @@
 
 This repository contains information regarding all parts of the Steel ecosystem which consists of..
 
-### Steel Studio 🎨
+### [Steel Studio 🎨](https://github.com/stordahl/steel-studio)
 Steel Studio is a one-click Sanity Studio which is configured with Sanity Dashboard pre-installed, pre-defined schemas, a sample data set, among other features.
 You can access the starter [here](https://www.sanity.io/create?template=stordahl/steel-studio)
 
