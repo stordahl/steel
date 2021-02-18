@@ -1,5 +1,5 @@
 # Steel 🤘🏻
-## is a sudo framework for headless ecommerce utilizing Snipcart &amp; Sanity
+## is a tool kit for headless ecommerce utilizing Snipcart &amp; Sanity
 
 This repository contains information regarding all parts of the Steel ecosystem which consists of..
 
