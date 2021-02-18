@@ -1,5 +1,7 @@
+<img src="https://i.ibb.co/WKwXSrv/steel-logo-01-01.jpg" alt="Steel Logo" width="200px"/>
+
 # Steel 🤘🏻
-## is a tool kit for headless ecommerce utilizing Snipcart &amp; Sanity
+## a tool kit for headless ecommerce utilizing Snipcart &amp; Sanity
 
 This repository contains information regarding all parts of the Steel ecosystem which consists of..
 
