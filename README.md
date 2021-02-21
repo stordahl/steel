@@ -3,6 +3,8 @@
 # Steel 🤘🏻
 ## a tool kit for headless ecommerce utilizing Snipcart &amp; Sanity
 
+*Check the wiki for more detailed info*
+
 This repository contains information regarding all parts of the Steel ecosystem which consists of..
 
 ### [Steel Studio 🎨](https://github.com/stordahl/steel-studio)
